@@ -1,0 +1,16 @@
+body {
+  background-color: #00ead3;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border: 3px solid white;
+  border-radius: 50%;
+}
+/*# sourceMappingURL=style.css.map */
